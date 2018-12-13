@@ -15,5 +15,6 @@ def location():
     state = input('What state do you live in? ')
     #ask for country
     country = input('What country do you live in? ')
-    
+
+#run 
 info()
